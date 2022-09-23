@@ -1,4 +1,12 @@
 ### I'm Yunosuke Sato :)
+
+
+# My Qiita posts
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/YunosukeSato/posts.svg)](http://qiita.com/YunosukeSato)
+# My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/YunosukeSato/contributions.svg)](http://qiita.com/YunosukeSato)
+# My Qiita followers
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/YunosukeSato/followers.svg)](http://qiita.com/YunosukeSato)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YunosukeSato&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YunosukeSato&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YunosukeSato&theme=gruvbox)

@@ -1,7 +1,9 @@
 ### I'm Yunosuke Sato :)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunosukeSato&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunosukeSato&layout=compact&theme=onedark)
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunosukeSato)
+
 
 
 

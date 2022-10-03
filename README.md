@@ -17,7 +17,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YunosukeSato&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YunosukeSato&theme=gruvbox&utcOffset=8)
 <!-- -->
-**YunosukeSato/YunosukeSato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **YunosukeSato/YunosukeSato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
